@@ -3,7 +3,7 @@
 I'm an aspiring game developer with some experience in:
 - Python
 - Flask
-- HTML/CSS
+- HTML/CSS & JS
 - C++
 - C#
 - SQL
